@@ -1,6 +1,6 @@
 # spring-jakarta
 
-Este é um modelo de API utilizando Spring e JPA 
+Este é um modelo de API de clientes (CRUD) utilizando Spring e JPA 
 
 ## Intalação
 
