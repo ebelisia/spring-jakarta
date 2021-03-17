@@ -2,7 +2,7 @@
 
 Este é um modelo de API de clientes (CRUD) utilizando Spring e JPA 
 
-## Intalação
+## Instalação
 
 Após configurar seu usuário e senha do MySQL no arquivo application.properties, voce pode iniciar o projeto utilizando o Maven:
 
@@ -10,5 +10,5 @@ Após configurar seu usuário e senha do MySQL no arquivo application.properties
 mvn spring-boot:run
 ```
 
-## License
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
